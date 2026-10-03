@@ -1,0 +1,23 @@
+[
+  {
+    "hostname": "R1",
+    "management_ip": "192.0.2.1",
+    "device_type": "Cisco IOS XE router",
+    "location": "Makati",
+    "simulated_status": "UP"
+  },
+  {
+    "hostname": "SW1",
+    "management_ip": "192.0.2.2",
+    "device_type": "Cisco Catalyst switch",
+    "location": "Intramuros",
+    "simulated_status": "UP"
+  },
+  {
+    "hostname": "R2",
+    "management_ip": "192.0.2.3",
+    "device_type": "Cisco IOS XE router",
+    "location": "Bulacan",
+    "simulated_status": "DOWN"
+  }
+]
